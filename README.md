@@ -1,6 +1,6 @@
 # Loke Strøm
-I’m a young and aspiring software developer with a passion for high-performance, low-level systems.
-I love exploring how things work under the hood—whether it’s memory management, rendering pipelines, or squeezing every last drop of performance out of C++.
+I’m a software developer with a passion for high-performance, low-level systems.
+I love exploring how things work under the hood, whether it’s memory management, rendering pipelines, or squeezing every last drop of performance out of C++.
 Currently, I spend my time building tools, simulations, and anything else that lets me experiment with speed, physics, and graphics.
 
 
