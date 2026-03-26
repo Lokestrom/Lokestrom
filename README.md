@@ -20,5 +20,5 @@ Most of my work revolves around experimenting with physics, mathematics, and pro
 * Leaking memory
 * Looking at triangles, lots of triangles
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokestrom&theme=nord&text_bold=false&line_height=20&custom_title=My%20stats)]()
+[![Loke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokestrom&theme=nord&text_bold=false&line_height=20&custom_title=My%20stats)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokestrom&&theme=nord&layout=compact)]()
